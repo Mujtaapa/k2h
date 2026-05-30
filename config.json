@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
+            "id": "16e04290-5c51-11f1-b636-205c6d5f5d78",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/topnet"
+          "path": "/k2"
         }
       }
     }
